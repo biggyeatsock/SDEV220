@@ -1,6 +1,8 @@
 ############################################
-#
-#  Lab: Case study: If...Else, and While
+#  File name: Main.py
+#  
+#  A simple program to determine if a student
+#  has made the Dean's list of if they made honor Roll
 #
 #  Author: Logan Luper
 #
